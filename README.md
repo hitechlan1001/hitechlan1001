@@ -1,7 +1,6 @@
 # <div align="center">💫 React developer | Frontend developer💫 &nbsp;</div>
 
-<br/>🤝 I’m finding a Job to challenge "Real" world problems. I bring you the best solution for your idea!
-<br/>💬 Ask me about React, Next.js, Solidity, CSS
+A dedicated and versatile React Developer with experience in developing scalable, performant and user-centered web applications. Over 9 years of professional experience in frontend and full-stack development, specializing in React, Next.js, TypeScript and modern state management libraries. Experienced in designing seamless UI/UX experiences and integrating robust backend services. Able to solve complex challenges, mentor teams and deliver high-quality, optimized solutions.
 <br/>
 
 
