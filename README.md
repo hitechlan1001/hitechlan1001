@@ -115,14 +115,14 @@ A dedicated and versatile React Developer with experience in developing scalable
       <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
       <br>Three.js
     </td>
-<!--     <td align="center" width="90">
+    <td align="center" width="90">
       <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
       <br>NFT
-    </td> -->
-<!--     <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
       <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
       <br>DeFi
-    </td> -->
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
       <br>Vue
