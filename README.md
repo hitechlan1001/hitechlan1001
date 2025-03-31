@@ -1,10 +1,10 @@
 # <div align="center">💫 Crypto Trading Bot | Chrome Extension | Telegram Bot & Mini App | API & AI Integration💫 &nbsp;</div>
 
-I help crypto traders, DeFi enthusiasts, and businesses gain a competitive edge by building:
-✅ Crypto Trading Bots (Arbitrage, Sniper, Copy Trading, Bundler)
-✅ Telegram Bots & Mini Apps (Auto-trading, Signal Alerts, Portfolio Tracking, Group Management)
-✅ AI-Powered Chrome Extensions (Automation, Scraping, Trading Tools)
-✅ Custom Automation Tools (API Integration, Data Scraping, Webhooks, gRPC/RPC Connections)
+I help crypto traders, DeFi enthusiasts, and businesses gain a competitive edge by building:</br>
+✅ Crypto Trading Bots (Arbitrage, Sniper, Copy Trading, Bundler)</br>
+✅ Telegram Bots & Mini Apps (Auto-trading, Signal Alerts, Portfolio Tracking, Group Management)</br>
+✅ AI-Powered Chrome Extensions (Automation, Scraping, Trading Tools)</br>
+✅ Custom Automation Tools (API Integration, Data Scraping, Webhooks, gRPC/RPC Connections)</br>
 ✅ TradingView Pine Script Strategies with Backtesting & Live Execution
 <br/>
 
