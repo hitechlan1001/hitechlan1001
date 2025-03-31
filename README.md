@@ -1,6 +1,11 @@
 # <div align="center">💫 Crypto Trading Bot | Chrome Extension | Telegram Bot & Mini App | API & AI Integration💫 &nbsp;</div>
 
-A dedicated and versatile React Developer with experience in developing scalable, performant and user-centered web applications. Over 9 years of professional experience in frontend and full-stack development, specializing in React, Next.js, TypeScript and modern state management libraries. Experienced in designing seamless UI/UX experiences and integrating robust backend services. Able to solve complex challenges, mentor teams and deliver high-quality, optimized solutions.
+I help crypto traders, DeFi enthusiasts, and businesses gain a competitive edge by building:
+✅ Crypto Trading Bots (Arbitrage, Sniper, Copy Trading, Bundler)
+✅ Telegram Bots & Mini Apps (Auto-trading, Signal Alerts, Portfolio Tracking, Group Management)
+✅ AI-Powered Chrome Extensions (Automation, Scraping, Trading Tools)
+✅ Custom Automation Tools (API Integration, Data Scraping, Webhooks, gRPC/RPC Connections)
+✅ TradingView Pine Script Strategies with Backtesting & Live Execution
 <br/>
 
 
