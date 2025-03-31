@@ -1,4 +1,4 @@
-# <div align="center">💫 React developer | Frontend developer💫 &nbsp;</div>
+# <div align="center">💫 Crypto Trading Bot | Chrome Extension | Telegram Bot & Mini App | API & AI Integration💫 &nbsp;</div>
 
 A dedicated and versatile React Developer with experience in developing scalable, performant and user-centered web applications. Over 9 years of professional experience in frontend and full-stack development, specializing in React, Next.js, TypeScript and modern state management libraries. Experienced in designing seamless UI/UX experiences and integrating robust backend services. Able to solve complex challenges, mentor teams and deliver high-quality, optimized solutions.
 <br/>
