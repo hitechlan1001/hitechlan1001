@@ -1,4 +1,4 @@
-# <div align="center">💫 Crypto Trading Bot | Chrome Extension | Telegram Bot & Mini App | API & AI Integration💫 &nbsp;</div>
+# <div align="center">💫 Crypto Trading Bot | Chrome Extension | Scrapping | Web Automation | Telegram Bot | API & AI Integration💫 &nbsp;</div>
 
 I help crypto traders, DeFi enthusiasts, and businesses gain a competitive edge by building:</br>
 ✅ Crypto Trading Bots (Arbitrage, Sniper, Copy Trading, Bundler)</br>
