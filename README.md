@@ -1,9 +1,9 @@
 # <div align="center">💫 Crypto Trading Bot | Scrapping | Browser Automation | Captcha & ReCaptcha Bypass💫 &nbsp;</div>
 
-✅ ### Crypto Trading Bots (Arbitrage, Sniper, Copy Trading, Bundler)</br>
-✅ ### `CAPTCHA & ReCAPTCHA Bypass Systems`</br>
-✅ ### Web Scrapers for Real-Time Data Extraction</br>
-✅ ### Browser Automation Tools for Routine Tasks</br>
+### ✅ Crypto Trading Bots (Arbitrage, Sniper, Copy Trading, Bundler)</br>
+### ✅ CAPTCHA & ReCAPTCHA Bypass Systems</br>
+### ✅ Web Scrapers for Real-Time Data Extraction</br>
+### ✅ Browser Automation Tools for Routine Tasks</br>
 <br/>
 
 
