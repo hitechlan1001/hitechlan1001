@@ -1,6 +1,5 @@
 # <div align="center">💫 Crypto Trading Bot | Scrapping | Browser Automation | Captcha & ReCaptcha Bypass💫 &nbsp;</div>
 
-I help crypto traders, DeFi enthusiasts, and businesses gain a competitive edge by building:</br>
 ✅ Crypto Trading Bots (Arbitrage, Sniper, Copy Trading, Bundler)</br>
 ✅ CAPTCHA & ReCAPTCHA Bypass Systems</br>
 ✅ Web Scrapers for Real-Time Data Extraction</br>
